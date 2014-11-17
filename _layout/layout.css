@@ -34,7 +34,9 @@
 
 			.logo{ line-height:29px; text-transform:uppercase; margin-bottom:0; color:#E45C3F; }
 			.logo small{ font-weight:300; font-size:14px; color:#444; }
-					
+			
+			/*.cv-name{ width: 340px; }*/
+			.second-contact-section{ width: 190px; }
 			.address-info{ padding-right:20px; border-right:1px solid #efefef; text-align:right; margin-bottom:0; }
 			.contact-info{ list-style:none; margin-bottom:0; }
 		
@@ -52,6 +54,8 @@
 				.cv-item-details h4{ line-height:22px; margin-bottom:12px; }
 	
 			.work-description{ text-align: justify; }
+			ul.disc li{ text-align: justify; }
+
 			.skill{ margin-bottom:40px; }
 				
 				.skill h4{ line-height:22px; margin-bottom:10px; }
